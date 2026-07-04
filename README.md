@@ -1,17 +1,18 @@
-# moonu13  
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=cutefurrypawjob&show_icons=true&theme=catppuccin_mocha&hide_border=false"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=cutefurrypawjob&show_icons=true&theme=catppuccin_mocha&hide_border=false"
+    alt="GitHub Stats"
+  />
+</picture>
 
-moonu13 here. i make websites.  
+# Hi im pawjob!
 
-i do php. i do html. i do css. that's it.  
+Im a Software / Game developer
+17
+he/him 🏳‍🌈
 
-i make websites work. i make websites look good. sometimes i break them. then i fix them.  
+![java]([https://example.com](https://img.shields.io/badge/Java-25-orange)) ![skript]([https://example.com](https://img.shields.io/badge/Skript-Learning-black)) ![csharp]([https://example.com](https://img.shields.io/badge/C#-Learning-blue))
 
-i run littercat.shop. it's my site. i built it. i keep it running.  
-
-i don't do fancy stuff. just php, html, and css. nothing else.  
-
-if u see a website i made, it's clean. it's simple. it works.  
-
-that's all.
-
-if u wanna contact me => [littercat.shop](https://littercat.shop/) or a@sillylittlecat.club
