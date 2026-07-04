@@ -2,7 +2,7 @@
   <img src="https://github-stats-extended.vercel.app/api?username=cutefurrypawjob&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
 </p>
 
-# ![cat]([https://img.shields.io/badge/Java-Experienced-orange?style=for-the-badge&logo=openjdk&logoColor=white](https://raw.githubusercontent.com/Trixzyy/MeowEmojis/refs/heads/main/gif/MeowEmoji_%20(21).gif)) Hi, I'm Pawjob!
+# ![cat]([https://img.shields.io/badge/Java-Experienced-orange?style=for-the-badge&logo=openjdk&logoColor=white](https://raw.githubusercontent.com/Trixzyy/MeowEmojis/refs/heads/main/gif/MeowEmoji_%20(21).gif) Hi, I'm Pawjob!
 
 I'm a **17-year-old software and game developer** from 🇫🇷 France.
 
