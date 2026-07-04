@@ -21,12 +21,3 @@ I enjoy creating software, Minecraft mods, and learning new programming language
   <img src="https://img.shields.io/badge/C%23-Learning-68217A?style=flat-square&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/C++-Learning-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 </p>
----
-
-## Currently Learning
-
-- C#
-- C++
-- JavaScript
-- HTML
-- Skript
