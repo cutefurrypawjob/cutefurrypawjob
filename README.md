@@ -4,15 +4,15 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Trixzyy/MeowEmojis/refs/heads/main/gif/MeowEmoji_%20(21).gif" width="42">
-  Hi, I'm Pawjob!
+  Hi, I'm Blanket!
 </h1>
 
 <p align="center">
-17 • 🇫🇷 France • Software & Game Developer
+17 • 🇪🇬 Egypt • Software & Game Developer
 </p>
 
 <p align="center">
-I enjoy creating software, Minecraft mods, and learning new programming languages.
+I enjoy creating stuff, Minecraft mods, and learning new things.
 </p>
 
 <p align="center">
