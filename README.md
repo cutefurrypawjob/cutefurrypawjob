@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-17 • 🇪🇬 Egypt • Software & Game Developer
+ 🇪🇬 Egypt • Software & Game Developer
 </p>
 
 <p align="center">
