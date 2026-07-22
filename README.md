@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=cutefurrypawjob&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=eepinblankets&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <h1 align="center">
